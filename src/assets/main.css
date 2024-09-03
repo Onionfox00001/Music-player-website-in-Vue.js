@@ -1,0 +1,9 @@
+@import './base.css';
+
+body {
+  background: var(--bs-dark);
+  background-image: var(--bs-gradient);
+  color: white;
+  min-height: 100vh;
+  margin: 0;
+}
